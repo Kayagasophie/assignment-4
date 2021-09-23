@@ -1,0 +1,27 @@
+/* nav-menu */
+
+.nav-menu{
+    display:inline;
+    background: white;
+    margin: 0px 0px 0px 0px;
+
+}
+
+.nav-item{
+    list-style-type: none;
+    float: left;
+
+}
+
+#pic{
+    clear: left;
+}
+
+.banana{
+    min-height: 150px;
+    border: 1px solid blue;
+}
+
+#sample{
+    
+}
